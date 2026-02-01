@@ -1,7 +1,7 @@
 # Technical Networking & Cybersecurity Portfolio
 ### By Alvin Chow
 
-[cite_start]A comprehensive collection of hands-on labs focusing on enterprise routing, next-generation firewall (NGFW) deployment, cloud architecture, and layer 2 security mitigation[cite: 1, 2].
+A comprehensive collection of hands-on labs focusing on enterprise routing, next-generation firewall (NGFW) deployment, cloud architecture, and layer 2 security mitigation[cite: 1, 2].
 
 ## 🛠️ Technical Skills
 * **Vendors & Platforms:** Cisco (CCNP Level), Palo Alto Networks (PA-220), Fortinet (FortiGate), AWS, Kali Linux.
@@ -31,7 +31,7 @@
 
 ## 🖥️ Lab Hardware
 * **Workstation:** Lenovo ThinkStation P5 (Intel Xeon W5-2455X, 32GB DDR5 RAM, NVIDIA RTX A4500).
-* ]**Tools:** Wireshark (Packet Analysis), PuTTY (Terminal), VMware (Virtualization).
+* **Tools:** Wireshark (Packet Analysis), PuTTY (Terminal), VMware (Virtualization).
 
 ---
 
@@ -39,4 +39,4 @@
 I believe in learning through technical challenges. Examples from my portfolio include:
 * **Redistribution Fix:** Identified missing metrics in EIGRP redistribution through Cisco forum research.
 * **Firmware Management:** Resolved AP discovery issues in FortiGate by performing firmware downgrades to compatible versions.
-* ]**VPN Connectivity:** Fixed IPsec tunnel failures by identifying necessary "bring up" commands within Fortinet dashboards.
+* **VPN Connectivity:** Fixed IPsec tunnel failures by identifying necessary "bring up" commands within Fortinet dashboards.
